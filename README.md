@@ -1,2 +1,2 @@
 # task_tracker
-task list style sr tracking app
+API Based ToDo List style SR Tracking app that stores everything in memory... This is a concept test for merging into SR_Tracker
